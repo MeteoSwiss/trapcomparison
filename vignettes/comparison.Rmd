@@ -11,6 +11,12 @@ output:
   word_document: default
 ---
 
+Copyright (c) 2022 MeteoSwiss, contributors listed in AUTHORS
+
+Distributed under the terms of the BSD 3-Clause License.
+
+SPDX-License-Identifier: BSD-3-Clause
+
 # Setup
 
 This project is using renv dependency management, for more info: 
