@@ -1,3 +1,5 @@
+> **Archived (read-only).** This repository contains the analysis code accompanying a publication and is intentionally frozen, not maintained.
+
 # Trapcomparison
 What is really in the air? An evaluation of multiple automatic pollen monitors
 
